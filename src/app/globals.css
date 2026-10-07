@@ -1624,12 +1624,12 @@ textarea:focus-visible {
   line-height: 1.85;
 }
 
-.page-reveal .about-card {
+.page-reveal:not(.page-revealed) .about-card {
   opacity: 0;
 }
 
 .page-revealed .about-card {
-  animation: about-card-enter 800ms backwards cubic-bezier(0.2, 0.75, 0.25, 1);
+  animation: about-card-enter 800ms both cubic-bezier(0.2, 0.75, 0.25, 1);
 }
 
 .page-revealed .about-card:nth-child(2) {
