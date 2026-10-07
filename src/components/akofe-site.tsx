@@ -33,7 +33,7 @@ const heroSlides = [
   "/images/slide1.jpeg",
   "/images/slide2.jpeg",
   "/images/slide3.jpeg",
-  "/images/slide6.jpg",
+  "/images/slide6.jpeg",
   "/images/slide7.png",
 ] as const;
 
