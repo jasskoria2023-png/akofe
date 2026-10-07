@@ -1444,7 +1444,7 @@ textarea:focus-visible {
   color: #ffffff;
   background:
     linear-gradient(105deg, rgba(9, 28, 48, 0.9), rgba(9, 28, 48, 0.76)),
-    url("/images/home_fea_1.png") center 43% / cover no-repeat;
+    url("/images/team1.jpg") center 43% / cover no-repeat;
 }
 
 .about-source-heading {

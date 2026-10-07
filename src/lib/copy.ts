@@ -674,8 +674,8 @@ export const copy = {
     },
     home: {
       eyebrow: "AKOFE – SRI LANKA",
-      title: "함께라면",
-      highlight: "더 밝게 성장할 수 있습니다.",
+      title: "AKOFE",
+      highlight: "",
       lead: "스리랑카 KOICA 동문회(AKOFE)는 한국국제협력단(KOICA)이 후원한 연수, 연구 및 학술 프로그램에 참여한 스리랑카 전문가들의 역동적인 네트워크입니다.",
       primary: "활동 살펴보기",
       secondary: "우리는 누구인가요",
@@ -723,7 +723,7 @@ export const copy = {
     },
     about: {
       eyebrow: "우리의 이야기",
-      title: "AKOFE",
+      title: "AKOFE-스리랑카",
       heroTagline: "900명 이상의 회원이 이끄는, 섬 전역으로 연결된",
       highlight: "",
       lead: "스리랑카 KOICA 동문회(AKOFE)는 한국국제협력단(KOICA)의 연수, 연구, 학술 프로그램에 참여한 스리랑카 전문가들을 연결하는 자발적 단체입니다.",
