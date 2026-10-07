@@ -464,8 +464,8 @@ export const copy = {
     },
     home: {
       eyebrow: "AKOFE – SRI LANKA",
-      title: "ஒன்றிணைந்து",
-      highlight: "ஒளிமயமாக வளர்வோம்.",
+      title: "AKOFE",
+      highlight: "",
       lead: "இலங்கையின் KOICA முன்னாள் மாணவர் சங்கமான AKOFE, கொரிய சர்வதேச ஒத்துழைப்பு முகமை (KOICA) ஆதரவளித்த பயிற்சி, ஆராய்ச்சி மற்றும் கல்வித் திட்டங்களில் பங்கேற்ற இலங்கை நிபுணர்களின் துடிப்பான வலையமைப்பாகும்.",
       primary: "எங்கள் பணியை அறியுங்கள்",
       secondary: "நாங்கள் யார்",
@@ -723,7 +723,7 @@ export const copy = {
     },
     about: {
       eyebrow: "우리의 이야기",
-      title: "AKOFE-스리랑카",
+      title: "AKOFE",
       heroTagline: "900명 이상의 회원이 이끄는, 섬 전역으로 연결된",
       highlight: "",
       lead: "스리랑카 KOICA 동문회(AKOFE)는 한국국제협력단(KOICA)의 연수, 연구, 학술 프로그램에 참여한 스리랑카 전문가들을 연결하는 자발적 단체입니다.",
