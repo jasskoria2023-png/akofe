@@ -1,0 +1,169 @@
+{
+  "source": "https://akofe.lk/akofe/dissemination/",
+  "years": [
+    {
+      "year": "2025",
+      "title": "Knowledge Dissemination Program – 2025",
+      "programs": [
+        {
+          "id": "electronics",
+          "title": "Practical Electronic for Industry",
+          "description": "A training program on \"Practical Electronics for Industry\" was conducted for 250 students of the Sri Lanka–German Railway Technical Training Center, Ratmalana. The program focused on providing hands-on experience in industrial electronics, aiming to strengthen the participants' practical knowledge and technical skills required for modern industrial environments.",
+          "images": [
+            {
+              "src": "/images/dissamination/electronics-01.jpeg",
+              "alt": "Practical Electronics for Industry photo 1"
+            },
+            {
+              "src": "/images/dissamination/electronics-02.jpeg",
+              "alt": "Practical Electronics for Industry photo 2"
+            },
+            {
+              "src": "/images/dissamination/electronics-03.jpeg",
+              "alt": "Practical Electronics for Industry photo 3"
+            },
+            {
+              "src": "/images/dissamination/electronics-04.jpeg",
+              "alt": "Practical Electronics for Industry photo 4"
+            },
+            {
+              "src": "/images/dissamination/electronics-05.jpeg",
+              "alt": "Practical Electronics for Industry photo 5"
+            },
+            {
+              "src": "/images/dissamination/electronics-06.jpeg",
+              "alt": "Practical Electronics for Industry photo 6"
+            },
+            {
+              "src": "/images/dissamination/electronics-07.jpeg",
+              "alt": "Practical Electronics for Industry photo 7"
+            },
+            {
+              "src": "/images/dissamination/electronics-08.jpeg",
+              "alt": "Practical Electronics for Industry photo 8"
+            },
+            {
+              "src": "/images/dissamination/electronics-09.jpeg",
+              "alt": "Practical Electronics for Industry photo 9"
+            },
+            {
+              "src": "/images/dissamination/electronics-10.jpeg",
+              "alt": "Practical Electronics for Industry photo 10"
+            }
+          ]
+        },
+        {
+          "id": "ai-journalism",
+          "title": "Use of Artificial Intelligence (AI) in Journalism",
+          "description": "AKOFE continues to strengthen local capacity through its knowledge dissemination programs, which aim to empower communities with practical and innovative skills. As part of this initiative, another successful program was conducted for school teachers and students, focusing on the \"Use of Artificial Intelligence (AI) in Journalism\". The session enhanced participants' understanding of AI tools and their applications in modern media practices, while fostering creativity, critical thinking, and digital literacy among the younger generation.",
+          "images": [
+            {
+              "src": "/images/dissamination/ai-01.jpeg",
+              "alt": "AI in Journalism photo 1"
+            },
+            {
+              "src": "/images/dissamination/ai-02.jpeg",
+              "alt": "AI in Journalism photo 2"
+            },
+            {
+              "src": "/images/dissamination/ai-03.jpeg",
+              "alt": "AI in Journalism photo 3"
+            },
+            {
+              "src": "/images/dissamination/ai-04.jpeg",
+              "alt": "AI in Journalism photo 4"
+            }
+          ]
+        },
+        {
+          "id": "elections",
+          "title": "Digital Transformation at Election Department",
+          "description": "The Digital Transformation at the Department of Elections focuses on modernizing its operations through the integration of ICT solutions to enhance efficiency, transparency, and accessibility. This initiative aims to streamline data management, improve service delivery, and strengthen public trust through secure and technology-driven electoral processes.",
+          "images": [
+            {
+              "src": "/images/dissamination/elections-01.jpeg",
+              "alt": "Digital Transformation at Election Department photo 1"
+            },
+            {
+              "src": "/images/dissamination/elections-02.jpeg",
+              "alt": "Digital Transformation at Election Department photo 2"
+            },
+            {
+              "src": "/images/dissamination/elections-03.jpeg",
+              "alt": "Digital Transformation at Election Department photo 3"
+            },
+            {
+              "src": "/images/dissamination/elections-04.jpeg",
+              "alt": "Digital Transformation at Election Department photo 4"
+            },
+            {
+              "src": "/images/dissamination/elections-05.jpeg",
+              "alt": "Digital Transformation at Election Department photo 5"
+            },
+            {
+              "src": "/images/dissamination/elections-06.jpeg",
+              "alt": "Digital Transformation at Election Department photo 6"
+            }
+          ]
+        },
+        {
+          "id": "seeduwa",
+          "title": "Vocational Training Institute-Seeduwa",
+          "description": "A Knowledge Dissemination and Donation Program was conducted at the Vocational Training Institute to enhance technical education and support skill development. The program included interactive training sessions and the donation of essential equipment, aiming to strengthen practical learning and empower trainees with industry-relevant knowledge.",
+          "images": [
+            {
+              "src": "/images/dissamination/seeduwa-01.jpeg",
+              "alt": "Vocational Training Institute Seeduwa photo 1"
+            },
+            {
+              "src": "/images/dissamination/seeduwa-02.jpeg",
+              "alt": "Vocational Training Institute Seeduwa photo 2"
+            },
+            {
+              "src": "/images/dissamination/seeduwa-03.jpeg",
+              "alt": "Vocational Training Institute Seeduwa photo 3"
+            },
+            {
+              "src": "/images/dissamination/seeduwa-04.jpeg",
+              "alt": "Vocational Training Institute Seeduwa photo 4"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lectures": {
+    "year": "2022",
+    "title": "Knowledge Dissemination Program – 2022",
+    "items": [
+      {
+        "topic": "Korea Development Model",
+        "resourcePerson": "Roshan Serasinghe, General Manager (Demo Group)"
+      },
+      {
+        "topic": "Skills development for youth",
+        "resourcePerson": "Dharmananda Wijesinghe (Former Media & Vocational Training Director / National Youth Services Council NYSC)"
+      },
+      {
+        "topic": "Disaster Management",
+        "resourcePerson": "R. P. Samarakkody (Disaster Management Centre)"
+      },
+      {
+        "topic": "Environment Protection",
+        "resourcePerson": "Mahesh Jaltota (Central Environment Authority)"
+      },
+      {
+        "topic": "Microcontroller based sub system designing for the Industry",
+        "resourcePerson": "Samantha Pushpakumara (Arthur C. Clarke Institute)"
+      },
+      {
+        "topic": "Crime Scene Investigation: Case study",
+        "resourcePerson": "Senaka Kumarasinghe (Director / Crime Investigation Department of Police)"
+      },
+      {
+        "topic": "RPL for NVQ3 Auto Mobile Technicians",
+        "resourcePerson": "Parameshwaram (Director Exams / Department of Technical Education & Training)"
+      }
+    ]
+  }
+}
